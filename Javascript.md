@@ -1,4 +1,4 @@
-# AZOOM CONVENTION STYLE GUIDE
+# Js note
 
 Hẳn bạn đã nghe đến `tính bất biến của dữ liệu (immutability)`. Đặc tính này, nói một cách đơn giản, là khả năng giá trị của dữ liệu `không bị thay đổi sau khi đã được khai báo`. Tính bất biến giúp cho chương trình trở nên dễ dự đoán, ít xảy ra lỗi và trong một số trường hợp còn tăng hiệu suất của ứng dụng.
 
